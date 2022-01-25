@@ -14,6 +14,9 @@ namespace Homework_01
         /// Входная точка в программу
         /// </summary>
         /// <param name="args"></param>
+        /// 
+        /* trying make pool request */
+         
         static void Main(string[] args)
         {
             Application();
